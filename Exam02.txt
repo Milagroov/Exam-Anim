@@ -1,0 +1,12 @@
+Faire l'AnimBP player (idle, movement, attack, jump)
+Faire l'AnimBP monstre (idle)
+Controles thirdPerson player & enhanced input
+health + Damage enemy (le joueur tape un enemy, il prend des dégâts), on utilisera les timings d'animations (animNotify et/ou animStateNotify)
+Trigger death (0 pv => mort depop/ragdoll/animation au choix)
+
+Bonus : Ranged attack (le joueur peut attaquer a distance)
+
+ !!! Pour rendre : !!!
+- faire un repo git sur votre compte en public
+- on fera attention au gitignore :)
+- envoyez le lien en DM sur discord
